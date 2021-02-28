@@ -10,8 +10,16 @@ This is the bot being hosted through repl.it
 
 ![image](https://user-images.githubusercontent.com/38481385/109408649-5b8dc500-7959-11eb-81ca-f6a82a580237.png)
 
+Message the bot to open the ticket.
+
 ![image](https://user-images.githubusercontent.com/38481385/109408650-5e88b580-7959-11eb-88c5-eafc212764ed.png)
+
+A channel gets created within the Modmail Tickets category (if this category doesn't exist, the bot will create it).
 
 ![image](https://user-images.githubusercontent.com/38481385/109408652-6183a600-7959-11eb-831b-62343b403c0a.png)
 
+Here is my message being forwarded to the user.
+
 ![image](https://user-images.githubusercontent.com/38481385/109408654-634d6980-7959-11eb-848f-4276a05d3419.png)
+
+The close command will close the ticket.
