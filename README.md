@@ -6,6 +6,8 @@ This modmail bot is used for Oakland University's Rocket League Esports Discord.
 
 ![image](https://user-images.githubusercontent.com/38481385/109408646-57fa3e00-7959-11eb-896c-068b9f0427bc.png)
 
+This is the bot being hosted through repl.it
+
 ![image](https://user-images.githubusercontent.com/38481385/109408649-5b8dc500-7959-11eb-81ca-f6a82a580237.png)
 
 ![image](https://user-images.githubusercontent.com/38481385/109408650-5e88b580-7959-11eb-88c5-eafc212764ed.png)
